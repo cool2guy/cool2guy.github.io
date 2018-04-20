@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Business/Process/System Consulting, 
+JQuery, Java, SQL (Most kind of RDB)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Recently, I have been working on a purchase project(some epro project).
+- purchase request
+- bidding
+- contract
+- purchase order
+- interfase to erp system(SAP etc) and some legacy systems
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cool2guy4nate@nate.com](mailto:cool2guy4nate@nate.com)
