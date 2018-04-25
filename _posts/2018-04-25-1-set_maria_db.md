@@ -6,10 +6,12 @@ title: set up mariadb
 1 Check Config of mariadb 
 - /etc/my.cnf
 - /etc/my.cnf.d/server.cnf
+  Change #max_connections, wait_timeout
+---  
   [mariadb]
-  # Change #max_connections, wait_timeout
   max_connections=500
   wait_timeout=60
+---
 
 2. Host 'xxx.xxx.xxx.xxx' is not allowed to connect to this MariaDB server
 - mysql -u root  :   -- Log on root 
